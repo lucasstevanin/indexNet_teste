@@ -1,28 +1,28 @@
 # IndexNet teste front-end
 
-Para o desenvolvimento do projeto foi utilizado as seguintes tecnologias:
+Para o desenvolvimento do projeto foram utilizadas as seguintes tecnologias:
 - VueJs
 - Bootstrap (para estilização)
 
-### 1 passo:
+### 1º PASSO:
 Clonar o repositório com:
 ```
 git clone
 ```
 
-### 2 passo:
+### 2º PASSO:
 Entrar na pasta do projeto:
 ```
 cd caminho/para/a/pasta/indexNet_teste
 ```
 
-### 3 passo:
-Instalar as dependências:
+### 3º PASSO:
+Instalar as dependências com:
 ```
 npm install
 ```
 
-### 4 passo:
+### 4º PASSO:
 Executar o projeto:
 ```
 npm run serve
