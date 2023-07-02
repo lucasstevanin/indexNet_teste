@@ -1,24 +1,30 @@
-# drop-site
+# IndexNet teste front-end
 
-## Project setup
+Para o desenvolvimento do projeto foi utilizado as seguintes tecnologias:
+- VueJs
+- Bootstrap (para estilização)
+
+### 1 passo:
+Clonar o repositório com:
+```
+git clone
+```
+
+### 2 passo:
+Entrar na pasta do projeto:
+```
+cd caminho/para/a/pasta/indexNet_teste
+```
+
+### 3 passo:
+Instalar as dependências:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 4 passo:
+Executar o projeto:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
